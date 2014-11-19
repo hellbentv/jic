@@ -12,7 +12,7 @@ learning curve for anyone who's already git-enabled. :)
 SOURCES
 -------
 
-JIC sources are hosted at Linaro git server:
+JIC sources are hosted at GitHub git server:
 
     https://github.com/ototo/jic
 
@@ -38,8 +38,8 @@ where
 CONTRIBUTING
 ------------
 
-Please send your feedback (any kind of it) and/or patches to Serge
-Broslavsky. He will be happy to get them.
+Please join jic-dev mailing list hosted by Linaro:
+http://lists.linaro.org/mailman/listinfo/jic-dev
 
 
 AUTHORS
